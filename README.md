@@ -1,0 +1,1 @@
+Este script é compatível apenas com distribuições baseadas em Arch Linux. Para outras distribuições os passos após a instalação dos pacotes são os mesmos, basta encontrar os pacotes equivalentes nos repositórios da sua distribuição
